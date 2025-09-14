@@ -1,9 +1,9 @@
 {
   "name": "dealhunter-prototype",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "functions/webhook.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node functions/webhook.js"
   },
   "dependencies": {
     "telegraf": "^4.16.3"
